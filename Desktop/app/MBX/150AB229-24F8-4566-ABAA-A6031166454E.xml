@@ -1,0 +1,444 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="3FAD5601-3534-4946-8A66-D0B85BDF4BA2" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="49">
+    <control controlID="B4D69DF0-837A-4B24-8540-872DAA213031" controlTypeID="Icon" x="14" y="36" w="18" h="18" zOrder="0">
+      <color>4292380672</color>
+      <links eventType="AtClick" animate="AmSlideRight" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="4C6613BC-9EEB-E711-8DDA-787B8ABCE684" linkType="ltPageLink" isApplyIncludePage="False" title="%E0%B8%AB%E0%B8%81%E0%B8%94%E0%B8%81%E0%B8%94">
+          <area shape="0" alt="" ID="{80C473A4-C8EB-E711-8DDA-787B8ABCE684}" coords="(0,0,18,18)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62418</iconCode>
+      </icon>
+      <URL>91852B86E51F760894554368302F9800.svg</URL>
+    </control>
+    <control controlID="29D9BDF7-6E37-4411-BD27-BC72B69704BD" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="1">
+      <color>4292380672</color>
+      <IsAutoTextColor>False</IsAutoTextColor>
+    </control>
+    <control controlID="2D8884C8-13CE-4B8E-A8A3-7C341148D1C8" controlTypeID="Label" x="20" y="63" w="87" h="43" zOrder="2">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Filters</text>
+      <textColor>4292380672</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="47A1B7BC-E41F-42D3-BBA2-729D9B9EAE08" controlTypeID="Button" x="10" y="616" w="355" h="44" zOrder="3">
+      <caption>Buttons+Edit</caption>
+      <color>4292380672</color>
+      <borderColor>4292380672</borderColor>
+      <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="4C6613BC-9EEB-E711-8DDA-787B8ABCE684" linkType="ltPageLink" isApplyIncludePage="False" title="%E0%B8%AB%E0%B8%81%E0%B8%94%E0%B8%81%E0%B8%94">
+          <area shape="0" alt="" ID="{B4552A22-83F3-4723-A08D-D04BAE95EE56}" coords="(0,0,355,44)"/>
+        </link>
+      </links>
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Apply</text>
+      <textColor>4294967295</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="AABC9356-FB44-4EF2-BB33-DA3707CF76BF" controlTypeID="ScrollView" x="0" y="106" w="375" h="500" zOrder="4">
+      <borderVisible>False</borderVisible>
+      <groupChildrenDescriptors>
+        <control controlID="5223923C-41A3-4410-8F1E-5C9FF53E3D2D" controlTypeID="ScrollViewContentPanel" x="0" y="0" w="375" h="742" zOrder="0">
+          <caption>Scroll+ViewPort</caption>
+          <alias>contentPanel</alias>
+          <groupChildrenDescriptors>
+            <control controlID="41E9CA0C-271D-4BF4-833D-E16862B2EE2F" controlTypeID="CompositeComboBox" x="288" y="238" w="60" h="27" zOrder="0">
+              <borderColor>4292380672</borderColor>
+              <groupChildrenDescriptors>
+                <control controlID="75B50E2E-9101-49FF-8950-22483F7AB43E" controlTypeID="TextInput" x="0" y="0" w="37" h="27" zOrder="0">
+                  <locked>True</locked>
+                  <borderColor>4292380672</borderColor>
+                  <canMove>False</canMove>
+                  <alias>input</alias>
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>1</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="FD84F622-8E0E-4977-BE2C-6E1A840EF983" controlTypeID="Button" x="36" y="0" w="24" h="27" zOrder="1">
+                  <locked>True</locked>
+                  <borderColor>4292380672</borderColor>
+                  <canMove>False</canMove>
+                  <alias>button</alias>
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>0</radius>
+                </control>
+                <control controlID="8DD7B085-8ADA-4676-9A87-2BD5DD481852" controlTypeID="List" x="0" y="27" w="60" h="83" zOrder="2">
+                  <isShow>False</isShow>
+                  <borderColor>4292380672</borderColor>
+                  <canMove>False</canMove>
+                  <alias>dropDown</alias>
+                  <verticalScrollbarShow>True</verticalScrollbarShow>
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>1%0D%0A2%0D%0A3</text>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <itemHeight>27</itemHeight>
+                  <interlaceColor>4294967295</interlaceColor>
+                </control>
+              </groupChildrenDescriptors>
+              <baseHeight>27</baseHeight>
+              <font family="Segoe+UI"/>
+              <textSize>14</textSize>
+            </control>
+            <control controlID="F3777220-AF90-44FC-AA27-4B6F8CF888DE" controlTypeID="__group__" x="20" y="62" w="345" h="22" zOrder="1">
+              <groupChildrenDescriptors>
+                <control controlID="4B31B2FC-F2A8-46E8-98B5-E677CB0AA263" controlTypeID="CheckBoxGroup" x="0" y="0" w="103" h="22" zOrder="0">
+                  <borderColor>4278190080</borderColor>
+                  <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+                  <text>%5Bx%5DEntire+place%0D%0A</text>
+                  <lineSpacing>0</lineSpacing>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <size>15</size>
+                  <itemHeight>22</itemHeight>
+                  <itemRect>[{"left":0,"top":0,"right":103,"bottom":22}]</itemRect>
+                </control>
+                <control controlID="AFDDC88E-510F-4D96-9724-C33EAA15E2DF" controlTypeID="CheckBoxGroup" x="124" y="0" w="114" h="22" zOrder="1">
+                  <borderColor>4278190080</borderColor>
+                  <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+                  <text>%5B%5DPrivate+room%0D%0A</text>
+                  <lineSpacing>0</lineSpacing>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <size>15</size>
+                  <itemHeight>22</itemHeight>
+                  <itemRect>[{"left":0,"top":0,"right":114,"bottom":22}]</itemRect>
+                </control>
+                <control controlID="AFA8A373-D41D-4776-A956-2EB6B276A4A4" controlTypeID="CheckBoxGroup" x="248" y="0" w="97" h="22" zOrder="2">
+                  <borderColor>4278190080</borderColor>
+                  <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+                  <text>%5Bx%5DShared+room</text>
+                  <lineSpacing>0</lineSpacing>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <size>15</size>
+                  <itemHeight>22</itemHeight>
+                  <itemRect>[{"left":0,"top":0,"right":97,"bottom":22}]</itemRect>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="6F34A635-4902-444B-8C5B-673F8CF349D4" controlTypeID="Label" x="20" y="20" w="133" h="32" zOrder="2">
+              <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Home+type</text>
+              <textColor>4292380672</textColor>
+              <textSize>24</textSize>
+              <lineSpacing>0</lineSpacing>
+              <textStyles>[fsBold]</textStyles>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="14275961-FE64-4B0B-A230-6B0DBA298EF3" controlTypeID="Label" x="20" y="99" w="141" h="32" zOrder="3">
+              <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Price+Range</text>
+              <textColor>4292380672</textColor>
+              <textSize>24</textSize>
+              <lineSpacing>0</lineSpacing>
+              <textStyles>[fsBold]</textStyles>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="DF2B074A-5D78-4FFD-8DE4-63A0ED85F7E0" controlTypeID="HSlider" x="20" y="166" w="335" h="14" zOrder="4">
+              <progress>100</progress>
+              <sliderColor>4294901760</sliderColor>
+              <trackColor>4281229184</trackColor>
+            </control>
+            <control controlID="B80023B3-F58B-4671-B11C-A84358868F8C" controlTypeID="TextArea" x="20" y="141" w="240" h="66" zOrder="5">
+              <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>$30+-+$3500%2B</text>
+              <textSize>16</textSize>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="856BFA87-D9EB-48AD-8E63-56FAF9C9684F" controlTypeID="Label" x="20" y="196" w="172" h="32" zOrder="6">
+              <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Rooms+%26+Beds</text>
+              <textColor>4292380672</textColor>
+              <textSize>24</textSize>
+              <lineSpacing>0</lineSpacing>
+              <textStyles>[fsBold]</textStyles>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="C1E37B91-4243-4E4F-81F5-D1C8BBD4A025" controlTypeID="TextArea" x="20" y="238" w="87" h="20" zOrder="7">
+              <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Room</text>
+              <textSize>18</textSize>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="DBA40724-FFC3-49BB-860D-F6BD355EAE59" controlTypeID="TextArea" x="20" y="275" w="87" h="20" zOrder="8">
+              <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Beds</text>
+              <textSize>18</textSize>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="8398F0DB-9DC2-4FBD-A53F-7BFFAC13DE2F" controlTypeID="TextArea" x="20" y="311" w="87" h="20" zOrder="9">
+              <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Bathroom</text>
+              <textSize>18</textSize>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="E3CE43FC-1366-4F24-9E4F-B55EAE698186" controlTypeID="CompositeComboBox" x="288" y="274" w="60" h="27" zOrder="10">
+              <borderColor>4292380672</borderColor>
+              <groupChildrenDescriptors>
+                <control controlID="E4AF56FC-5F77-4E4F-9193-56FB8B4E66CE" controlTypeID="TextInput" x="0" y="0" w="37" h="27" zOrder="0">
+                  <locked>True</locked>
+                  <borderColor>4292380672</borderColor>
+                  <canMove>False</canMove>
+                  <alias>input</alias>
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>2</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="200C1B1B-E148-4558-94E8-47CD40BED172" controlTypeID="Button" x="36" y="0" w="24" h="27" zOrder="1">
+                  <locked>True</locked>
+                  <borderColor>4292380672</borderColor>
+                  <canMove>False</canMove>
+                  <alias>button</alias>
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>0</radius>
+                </control>
+                <control controlID="BA407C93-EA2C-43F6-8FD6-6F92E5CA8A9A" controlTypeID="List" x="0" y="27" w="60" h="95" zOrder="2">
+                  <isShow>False</isShow>
+                  <borderColor>4292380672</borderColor>
+                  <canMove>False</canMove>
+                  <alias>dropDown</alias>
+                  <verticalScrollbarShow>True</verticalScrollbarShow>
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>1%0D%0A2%0D%0A3</text>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>1</selectedIndex>
+                  <itemHeight>27</itemHeight>
+                  <interlaceColor>4294967295</interlaceColor>
+                </control>
+              </groupChildrenDescriptors>
+              <baseHeight>27</baseHeight>
+              <font family="Segoe+UI"/>
+              <textSize>14</textSize>
+            </control>
+            <control controlID="E3D41F5F-F3E3-44E4-8285-9EDD5E54FFCD" controlTypeID="CompositeComboBox" x="288" y="311" w="60" h="27" zOrder="11">
+              <borderColor>4292380672</borderColor>
+              <groupChildrenDescriptors>
+                <control controlID="94F95301-48E4-4181-BE05-ADFBBDF74A65" controlTypeID="TextInput" x="0" y="0" w="37" h="27" zOrder="0">
+                  <locked>True</locked>
+                  <borderColor>4292380672</borderColor>
+                  <canMove>False</canMove>
+                  <alias>input</alias>
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>1</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="ED7AEA12-7D38-4CA4-BC22-F92046FCC239" controlTypeID="Button" x="36" y="0" w="24" h="27" zOrder="1">
+                  <locked>True</locked>
+                  <borderColor>4292380672</borderColor>
+                  <canMove>False</canMove>
+                  <alias>button</alias>
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>0</radius>
+                </control>
+                <control controlID="DBFF072B-FEC5-45E6-8810-A8DBB4EA05C7" controlTypeID="List" x="0" y="27" w="60" h="83" zOrder="2">
+                  <isShow>False</isShow>
+                  <borderColor>4292380672</borderColor>
+                  <canMove>False</canMove>
+                  <alias>dropDown</alias>
+                  <verticalScrollbarShow>True</verticalScrollbarShow>
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>1%0D%0A2%0D%0A3</text>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <itemHeight>27</itemHeight>
+                  <interlaceColor>4294967295</interlaceColor>
+                </control>
+              </groupChildrenDescriptors>
+              <baseHeight>27</baseHeight>
+              <font family="Segoe+UI"/>
+              <textSize>14</textSize>
+            </control>
+            <control controlID="32898389-8277-4596-B7B5-9FD0A7A1EC23" controlTypeID="Label" x="20" y="353" w="164" h="32" zOrder="12">
+              <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Property+type</text>
+              <textColor>4292380672</textColor>
+              <textSize>24</textSize>
+              <lineSpacing>0</lineSpacing>
+              <textStyles>[fsBold]</textStyles>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="4525F366-CD89-4639-B729-50183E86F96E" controlTypeID="TextArea" x="20" y="395" w="87" h="20" zOrder="13">
+              <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>House</text>
+              <textSize>18</textSize>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="B523242F-17BB-415B-837E-7CD891254E69" controlTypeID="TextArea" x="20" y="432" w="87" h="20" zOrder="14">
+              <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Hotel</text>
+              <textSize>18</textSize>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="AFA4B567-E6CC-4944-95BF-427BE48394D5" controlTypeID="TextArea" x="20" y="468" w="87" h="20" zOrder="15">
+              <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Resort</text>
+              <textSize>18</textSize>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="933FCED6-C28E-4A26-8F1E-54A03E9F31A7" controlTypeID="CheckBox" x="321" y="397" w="18" h="18" zOrder="16">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>72</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+              <size>18</size>
+            </control>
+            <control controlID="C5036D0E-42A8-4715-9BC5-A9EE00345988" controlTypeID="CheckBox" x="321" y="434" w="18" h="18" zOrder="17">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>72</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+              <state>MfEnabled</state>
+              <size>18</size>
+            </control>
+            <control controlID="3D48BA47-EA0C-4D5B-B9E3-607917A205B6" controlTypeID="CheckBox" x="321" y="469" w="18" h="18" zOrder="18">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>72</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+              <size>18</size>
+            </control>
+            <control controlID="313384A5-8324-4AE4-A69A-A18A0B38C51F" controlTypeID="Label" x="21" y="552" w="164" h="32" zOrder="19">
+              <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Unique+Home</text>
+              <textColor>4292380672</textColor>
+              <textSize>24</textSize>
+              <lineSpacing>0</lineSpacing>
+              <textStyles>[fsBold]</textStyles>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="8C7806CF-E9E1-4C6C-B714-CB015526694C" controlTypeID="TextArea" x="21" y="594" w="87" h="20" zOrder="20">
+              <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Cave</text>
+              <textSize>18</textSize>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="51B4E18B-CB22-404B-9E8B-BFC770908D93" controlTypeID="TextArea" x="21" y="631" w="87" h="31" zOrder="21">
+              <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Farm+stay</text>
+              <textSize>18</textSize>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="20E160A5-486C-46EB-B09E-7BF266DBCC7B" controlTypeID="TextArea" x="21" y="667" w="87" h="20" zOrder="22">
+              <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Island</text>
+              <textSize>18</textSize>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="3701C34D-8488-47AA-8D87-FF12F266B871" controlTypeID="CheckBox" x="322" y="597" w="18" h="18" zOrder="23">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>72</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+              <state>MfEnabled</state>
+              <size>18</size>
+            </control>
+            <control controlID="9524AEE5-F737-498D-917C-316766589513" controlTypeID="CheckBox" x="322" y="634" w="18" h="18" zOrder="24">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>72</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+              <state>MfEnabled</state>
+              <size>18</size>
+            </control>
+            <control controlID="095456DD-74F9-4FC9-B1F9-DF8EB2AB35C5" controlTypeID="CheckBox" x="322" y="669" w="18" h="18" zOrder="25">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>72</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+              <size>18</size>
+            </control>
+            <control controlID="4DEBBC0D-2F7E-4D8C-B06F-E76FAD31096B" controlTypeID="Line" x="9" y="535" w="358" h="1" zOrder="26">
+              <color>4292335575</color>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+              <controlPoint>(179,0)</controlPoint>
+              <startPoint>(0,0)</startPoint>
+              <endPoint>(358,0)</endPoint>
+            </control>
+            <control controlID="CDCB2E66-5BD0-45F8-936A-0F631C18091F" controlTypeID="TextArea" x="21" y="505" w="198" h="20" zOrder="27">
+              <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Show+all+property+types</text>
+              <textColor>4281229184</textColor>
+              <textSize>16</textSize>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="559B466F-8E67-47CA-88D3-C4BF5AECF90B" controlTypeID="Line" x="9" y="727" w="358" h="1" zOrder="28">
+              <color>4292335575</color>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+              <controlPoint>(179,0)</controlPoint>
+              <startPoint>(0,0)</startPoint>
+              <endPoint>(358,0)</endPoint>
+            </control>
+            <control controlID="36C0818A-51F4-4757-9E9E-FF6F25410EE2" controlTypeID="TextArea" x="21" y="697" w="198" h="20" zOrder="29">
+              <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Show+all+Unique+Home</text>
+              <textColor>4281229184</textColor>
+              <textSize>16</textSize>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="43166F30-88A9-4002-B7B5-40C9C8C54C7B" controlTypeID="Border" x="0" y="0" w="375" h="500" zOrder="1">
+          <color>4284900966</color>
+          <borderColor>4278190080</borderColor>
+          <borderVisible>False</borderVisible>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,57 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="60B7CC70-BFB6-405E-9EC3-D24CEAE5A182" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="4">
+    <control controlID="DA1D902E-376D-4979-AF11-1A0D35438BFD" controlTypeID="Button" x="10" y="616" w="355" h="44" zOrder="0">
+      <caption>Buttons+Edit</caption>
+      <color>4292380672</color>
+      <borderColor>4292380672</borderColor>
+      <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="DF6ECF71-703D-4E14-9E5D-1D31743F907F" linkType="ltPageLink" isApplyIncludePage="False" title="%E0%B8%AB%E0%B8%81%E0%B8%94%E0%B8%81%E0%B8%94">
+          <area shape="0" alt="" ID="{B4552A22-83F3-4723-A08D-D04BAE95EE56}" coords="(0,0,355,44)"/>
+        </link>
+      </links>
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Let's+Next+Trip</text>
+      <textColor>4294967295</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="560020EC-2511-415B-8E8A-A9F65FAE0B92" controlTypeID="Label" x="20" y="161" w="148" h="43" zOrder="1">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Thank+You</text>
+      <textColor>4292381191</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A96A71B4-653B-4CB6-9F48-EC21885A611E" controlTypeID="Label" x="112" y="214" w="243" h="43" zOrder="2">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>For+Enjoy+with+us.</text>
+      <textColor>4292381191</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="55F34DE1-9B3A-49F7-8D47-A3F9B57E8529" controlTypeID="TextArea" x="27" y="292" w="328" h="134" zOrder="3">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Please+waiting+for+Confirm+%0D%0Afrom+Your+Guide%0D%0Ain+24+hours.</text>
+      <textColor>4294901760</textColor>
+      <textSize>23</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

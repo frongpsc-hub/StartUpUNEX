@@ -1,0 +1,170 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="A4D88615-FA9B-44DD-9776-53C1B5EAE348" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="18">
+    <control controlID="A0A2C119-A80F-48B7-9C63-01F048DBB93D" controlTypeID="Icon" x="14" y="36" w="18" h="18" zOrder="0">
+      <color>4292380672</color>
+      <links eventType="AtClick" animate="AmPushRight" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D1D5D442-9EC9-4B4C-B122-1734F0AC7769" linkType="ltPageLink" isApplyIncludePage="False" title="join">
+          <area shape="0" alt="" ID="{80C473A4-C8EB-E711-8DDA-787B8ABCE684}" coords="(0,0,18,18)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62418</iconCode>
+      </icon>
+      <URL>91852B86E51F760894554368302F9800.svg</URL>
+    </control>
+    <control controlID="EBC9D30E-5C6F-490C-8983-CA2ED7841873" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="1">
+      <color>4292380672</color>
+      <IsAutoTextColor>False</IsAutoTextColor>
+    </control>
+    <control controlID="3F94157D-8E17-4A63-899C-479AC907C658" controlTypeID="Label" x="20" y="63" w="131" h="43" zOrder="2">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Currency</text>
+      <textColor>4292380672</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A7661844-E27B-4C5A-AA32-93A08DA1C95A" controlTypeID="Label" x="20" y="107" w="165" h="27" zOrder="3">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Payment+currency+%3A</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8BCF492F-3B7A-4AD6-AC6F-308272C271B6" controlTypeID="Label" x="185" y="107" w="43" h="27" zOrder="4">
+      <links eventType="AtClick" animate="AmSlideUp" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Currency">
+          <area shape="0" alt="" ID="{2BEA44CD-1081-47D2-B18B-164DDFE3226E}" coords="(0,0,43,27)"/>
+        </link>
+      </links>
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>USD</text>
+      <textColor>4294901760</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="FC98D374-5AEA-4950-A53D-F5B77BD42290" controlTypeID="Shape" x="0" y="144" w="372" h="210" zOrder="5">
+      <borderColor>4292335575</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <borderMode>[]</borderMode>
+    </control>
+    <control controlID="282994BC-F51F-424C-A21B-74E2349A07E4" controlTypeID="Line" x="0" y="254" w="376" h="1" zOrder="6">
+      <color>4292380672</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(188,0)</controlPoint>
+      <startPoint>(1,0)</startPoint>
+      <endPoint>(376,0)</endPoint>
+    </control>
+    <control controlID="2E0A0CF5-93AB-4F69-8CB1-E581A67A626E" controlTypeID="Line" x="18" y="203" w="358" h="1" zOrder="7">
+      <color>4292380672</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(179,0)</controlPoint>
+      <startPoint>(0,0)</startPoint>
+      <endPoint>(358,0)</endPoint>
+    </control>
+    <control controlID="B916C5D8-0765-4A87-9026-18B8EF0EC10A" controlTypeID="__group__" x="19" y="162" w="346" h="24" zOrder="8">
+      <links eventType="AtClick" animate="AmSlideLeft" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Page1">
+          <area shape="0" alt="" ID="{6FB5C40D-BCE6-4F17-8B44-1D0D474DC28F}" coords="(0,0,346,24)"/>
+        </link>
+      </links>
+      <groupChildrenDescriptors>
+        <control controlID="1F2F57E0-C027-4520-86E4-17AD694014CE" controlTypeID="__group__" x="34" y="1" w="312" h="22" zOrder="0">
+          <links eventType="AtClick" animate="AmPushDown" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="6ACE729A-C1EB-E711-8DDA-787B8ABCE684" linkType="ltPageLink" isApplyIncludePage="False" title="My+Collection">
+              <area shape="0" alt="" ID="{A9A86661-0E63-4D53-9896-F838B3B6CBFC}" coords="(0,0,312,22)"/>
+            </link>
+          </links>
+          <groupChildrenDescriptors>
+            <control controlID="B13421A8-22F4-4576-8E55-4599CB4B3524" controlTypeID="Icon" x="298" y="4" w="14" h="14" zOrder="0">
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62419</iconCode>
+              </icon>
+              <URL>2E967326C22523F5F084001B9F4E5BC7.svg</URL>
+            </control>
+            <control controlID="615D68A8-7D39-41A7-891F-EF457BD7EAD6" controlTypeID="Label" x="0" y="0" w="37" h="22" zOrder="1">
+              <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>VISA</text>
+              <textColor>4292381191</textColor>
+              <textSize>16</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="390B538C-ECC6-48E2-8BAC-1D1AF08D11F6" controlTypeID="Icon" x="0" y="0" w="24" h="24" zOrder="1">
+          <color>4292380672</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdFontAwesome</iconFontName>
+            <iconCode>61936</iconCode>
+          </icon>
+          <URL>9BC5E752B0A23BF639992CCB3F69E497.svg</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="903A1242-B311-4160-8A25-CF9AA8E468AC" controlTypeID="__group__" x="20" y="214" w="345" h="24" zOrder="9">
+      <links eventType="AtClick" animate="AmSlideLeft" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Page1">
+          <area shape="0" alt="" ID="{14C7B44E-331A-4227-8D6F-9839D8F208AA}" coords="(0,0,345,24)"/>
+        </link>
+      </links>
+      <groupChildrenDescriptors>
+        <control controlID="99799F60-FC27-462A-BA65-164468F8E981" controlTypeID="__group__" x="33" y="1" w="312" h="22" zOrder="0">
+          <groupChildrenDescriptors>
+            <control controlID="795DB4F8-5197-468A-BD89-7E7931A89081" controlTypeID="Icon" x="298" y="4" w="14" h="14" zOrder="0">
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62419</iconCode>
+              </icon>
+              <URL>2E967326C22523F5F084001B9F4E5BC7.svg</URL>
+            </control>
+            <control controlID="4489738D-6FCD-4A23-85EF-36184E58BADA" controlTypeID="Label" x="0" y="0" w="106" h="22" zOrder="1">
+              <color>52326</color>
+              <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>MASTER+CARD</text>
+              <textColor>4292380672</textColor>
+              <textSize>16</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="AD115202-2C64-4EEF-9A82-6388C4BFDF95" controlTypeID="Icon" x="0" y="0" w="24" h="24" zOrder="1">
+          <color>4292380672</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdFontAwesome</iconFontName>
+            <iconCode>61937</iconCode>
+          </icon>
+          <URL>259A93310335F26BF1179ABCF51B94C3.svg</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

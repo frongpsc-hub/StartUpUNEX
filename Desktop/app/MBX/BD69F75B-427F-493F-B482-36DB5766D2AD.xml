@@ -1,0 +1,264 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="4F526945-6F18-498D-A554-2FF2BD11BDFD" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="17">
+    <control controlID="C5F44808-2221-487B-A242-A1B2A0E7A53F" controlTypeID="Icon" x="14" y="36" w="18" h="18" zOrder="0">
+      <color>4292380672</color>
+      <links eventType="AtClick" animate="AmPushRight" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="B41B3DC3-4E4D-487D-8FF5-76D86AF0F5DD" linkType="ltPageLink" isApplyIncludePage="False" title="Pay+with1">
+          <area shape="0" alt="" ID="{80C473A4-C8EB-E711-8DDA-787B8ABCE684}" coords="(0,0,18,18)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62418</iconCode>
+      </icon>
+      <URL>91852B86E51F760894554368302F9800.svg</URL>
+    </control>
+    <control controlID="D7709E5D-50B6-4CCD-80E1-FFB96F95AC6C" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="1">
+      <color>4292380672</color>
+      <IsAutoTextColor>False</IsAutoTextColor>
+    </control>
+    <control controlID="C4721E2B-18CF-46AA-B98B-FF4F4147896B" controlTypeID="Label" x="20" y="63" w="309" h="43" zOrder="2">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Enter+your+card+details</text>
+      <textColor>4292380672</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="EB7C15C3-0DF1-4518-9A6B-2194D9E116E5" controlTypeID="Label" x="20" y="129" w="134" h="27" zOrder="3">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Card+Number</text>
+      <textColor>4292381191</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5478887D-0A97-4139-99DF-9DC8BF57BBF1" controlTypeID="TextInput" x="16" y="161" w="329" h="30" zOrder="4">
+      <caption>ad</caption>
+      <borderColor>4294967295</borderColor>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{6251ECB7-5564-4262-8374-3D7A10A6D7FD}" coords="(0,0,329,30)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="F7A78975-0FAB-4F3C-A031-7B1471F55C2D" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Popup State Change" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="Value" value="2" varType="3" description=""/>
+                    <param name="AniType" value="0" varType="3" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <placeHolder>0000+0000+0000+0000</placeHolder>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="672AEB8A-BE2E-4041-BF33-89195FED6690" controlTypeID="Label" x="20" y="201" w="87" h="27" zOrder="5">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Valid+Till</text>
+      <textColor>4292381191</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F6B10902-9B8D-4FF4-ADC1-BB26E0CE1A67" controlTypeID="Label" x="20" y="273" w="47" h="27" zOrder="6">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>CVV</text>
+      <textColor>4292381191</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CC0995B9-DDCB-41A5-B6D7-476440D5C331" controlTypeID="Label" x="20" y="357" w="82" h="27" zOrder="7">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Zipcode</text>
+      <textColor>4292381191</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7B782B62-822C-47E3-81B7-367769597F92" controlTypeID="TextInput" x="20" y="233" w="329" h="30" zOrder="8">
+      <caption>ad</caption>
+      <borderColor>4294967295</borderColor>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{6251ECB7-5564-4262-8374-3D7A10A6D7FD}" coords="(0,0,329,30)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="F7A78975-0FAB-4F3C-A031-7B1471F55C2D" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Popup State Change" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="Value" value="2" varType="3" description=""/>
+                    <param name="AniType" value="0" varType="3" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <placeHolder>MM%2FDD</placeHolder>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="969157A5-E116-49F6-AFBD-D55ED8D331D5" controlTypeID="TextInput" x="20" y="307" w="329" h="30" zOrder="9">
+      <caption>ad</caption>
+      <borderColor>4294967295</borderColor>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{6251ECB7-5564-4262-8374-3D7A10A6D7FD}" coords="(0,0,329,30)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="F7A78975-0FAB-4F3C-A031-7B1471F55C2D" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Popup State Change" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="Value" value="2" varType="3" description=""/>
+                    <param name="AniType" value="0" varType="3" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <placeHolder>123</placeHolder>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="0581F70D-34DF-47F3-9CDC-FDE99BA4F3AF" controlTypeID="TextInput" x="20" y="394" w="329" h="30" zOrder="10">
+      <caption>ad</caption>
+      <borderColor>4294967295</borderColor>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{6251ECB7-5564-4262-8374-3D7A10A6D7FD}" coords="(0,0,329,30)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="F7A78975-0FAB-4F3C-A031-7B1471F55C2D" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Popup State Change" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="Value" value="2" varType="3" description=""/>
+                    <param name="AniType" value="0" varType="3" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <placeHolder>12345</placeHolder>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="ECF5A57E-E652-4BA9-B520-5DBFC9B9B4B1" controlTypeID="Button" x="10" y="616" w="355" h="44" zOrder="11">
+      <caption>Buttons+Edit</caption>
+      <color>4292380672</color>
+      <borderColor>4292380672</borderColor>
+      <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="638915BD-D927-48B7-BA16-D04A441D8AFE" linkType="ltPageLink" isApplyIncludePage="False" title="join">
+          <area shape="0" alt="" ID="{B4552A22-83F3-4723-A08D-D04BAE95EE56}" coords="(0,0,355,44)"/>
+        </link>
+      </links>
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Confirm</text>
+      <textColor>4294967295</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="F7A78975-0FAB-4F3C-A031-7B1471F55C2D" controlTypeID="PopupPanel" x="-154" y="265" w="46" h="46" zOrder="12">
+      <caption>Keyboard</caption>
+      <color>4288256409</color>
+      <groupChildrenDescriptors>
+        <control controlID="0BA26264-86DA-4C19-9377-7F68AE889B0F" controlTypeID="Panel" x="0" y="0" w="375" h="667" zOrder="0">
+          <locked>True</locked>
+          <color>4288256409</color>
+          <borderVisible>False</borderVisible>
+          <canMove>False</canMove>
+          <alias>background</alias>
+          <groupChildrenDescriptors>
+            <control controlID="DA9DB82F-3927-4BA1-89D8-7BF868F17A30" controlTypeID="Border" x="0" y="0" w="375" h="667" zOrder="0">
+              <borderVisible>False</borderVisible>
+              <alias>borderLayer</alias>
+            </control>
+          </groupChildrenDescriptors>
+          <thinkness>1</thinkness>
+        </control>
+        <control controlID="BE3C17F1-EA20-4119-B52F-306587EF4B94" controlTypeID="PopupPanelContent" x="0" y="427" w="375" h="240" zOrder="1">
+          <color>16777215</color>
+          <alias>content</alias>
+          <groupChildrenDescriptors>
+            <control controlID="EFD8D31E-9E37-47DB-80D6-BED060DFBF38" controlTypeID="Keyboard" x="0" y="0" w="375" h="240" zOrder="0">
+              <keyboardType>ktGridNine</keyboardType>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+      <isBackgroundFade>True</isBackgroundFade>
+      <aniType_Mobile>aniMoveUp</aniType_Mobile>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

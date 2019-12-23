@@ -1,0 +1,329 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="053B58B9-3C4F-466D-BB91-F3767179D54D" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="40">
+    <control controlID="AD47BB8C-54FB-4966-9BFA-A9938C0273D0" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="0">
+      <color>4292380672</color>
+      <IsAutoTextColor>False</IsAutoTextColor>
+    </control>
+    <control controlID="3E9F0055-6113-4FE7-9B51-4AEBC35265B2" controlTypeID="__group__" x="0" y="619" w="375" h="48" zOrder="1">
+      <groupChildrenDescriptors>
+        <control controlID="669CE86E-BDEC-4668-AC21-1F0C9EA412B8" controlTypeID="Shape" x="0" y="0" w="375" h="48" zOrder="0">
+          <borderColor>4293190884</borderColor>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+          <borderMode>[bmTop]</borderMode>
+        </control>
+        <control controlID="F940537C-5086-4B72-B7E0-EF34949E6594" controlTypeID="IconLabel2" x="317" y="6" w="22" h="36" zOrder="1">
+          <groupChildrenDescriptors>
+            <control controlID="ACC45E83-D7F8-4108-99E6-868D18BAB1AC" controlTypeID="Shape" x="2" y="0" w="18" h="18" zOrder="0">
+              <canMove>False</canMove>
+              <alias>shape</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="F3F12CCA-6F47-4187-A0BF-1F1D8C5D995E" controlTypeID="Icon" x="2" y="0" w="18" h="18" zOrder="1">
+              <color>4288256409</color>
+              <canMove>False</canMove>
+              <alias>icon</alias>
+              <icon>
+                <ID/>
+                <iconFontName>jdiconfontB</iconFontName>
+                <iconCode>59651</iconCode>
+              </icon>
+              <URL>B64512564078BE31571E4B8E32EDD2AD.svg</URL>
+            </control>
+            <control controlID="8F093F78-B6F7-4EB1-B1D4-A7A127B327D2" controlTypeID="Label" x="2" y="22" w="17" h="14" zOrder="2">
+              <canMove>False</canMove>
+              <alias>label</alias>
+              <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Me</text>
+              <textColor>4288256409</textColor>
+              <textSize>10</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="D1C5D952-A961-4107-83C6-E332AC40E0CA" controlTypeID="Shape" x="10" y="0" w="12" h="12" zOrder="3">
+              <color>4294901760</color>
+              <borderVisible>False</borderVisible>
+              <canMove>False</canMove>
+              <alias>alarm</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>2</text>
+              <textColor>4294967295</textColor>
+              <textSize>7</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <radius>100</radius>
+              <radiusIsPercent>True</radiusIsPercent>
+            </control>
+          </groupChildrenDescriptors>
+          <iconSize>18</iconSize>
+        </control>
+        <control controlID="9903F152-F0A0-4181-9955-16CEFCDAEA0A" controlTypeID="__group__" x="39" y="6" w="35" h="35" zOrder="2">
+          <groupChildrenDescriptors>
+            <control controlID="0AF1C2F7-79B9-45FA-AD8B-A67E26618CF1" controlTypeID="Icon" x="4" y="0" w="21" h="21" zOrder="0">
+              <color>4292380672</color>
+              <icon>
+                <ID/>
+                <iconFontName>jdFontAwesome</iconFontName>
+                <iconCode>61442</iconCode>
+              </icon>
+              <URL>4316E1C307CC30565C10942536930CD7.svg</URL>
+            </control>
+            <control controlID="1E69228D-1ECF-4335-98C7-2F550F40B5E3" controlTypeID="Label" x="0" y="21" w="35" h="14" zOrder="1">
+              <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Explore</text>
+              <textColor>4292380672</textColor>
+              <textSize>10</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="BDC9E87D-7AE5-4E64-900C-AEC84FA5B2BB" controlTypeID="__group__" x="123" y="8" w="34" h="33" zOrder="3">
+          <groupChildrenDescriptors>
+            <control controlID="DB82EE0D-68C2-4EBC-A1E3-284F83D0F252" controlTypeID="Icon" x="7" y="0" w="19" h="19" zOrder="0">
+              <color>4288256409</color>
+              <icon>
+                <ID/>
+                <iconFontName>jdFontAwesome</iconFontName>
+                <iconCode>61914</iconCode>
+              </icon>
+              <URL>C64D94EAF0EFC95CE6DA111B99CB9092.svg</URL>
+            </control>
+            <control controlID="DC4A6076-3EF5-4007-A078-8958A7B2926F" controlTypeID="Label" x="0" y="19" w="34" h="14" zOrder="1">
+              <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>History</text>
+              <textColor>4288256409</textColor>
+              <textSize>10</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="71E7A790-C10B-4994-8F2C-584BFD93D3D3" controlTypeID="__group__" x="224" y="8" w="27" h="33" zOrder="4">
+          <groupChildrenDescriptors>
+            <control controlID="70D10ED9-2201-4D78-B195-529955EFF01F" controlTypeID="Icon" x="2" y="0" w="21" h="21" zOrder="0">
+              <color>4288256409</color>
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62164</iconCode>
+              </icon>
+              <URL>6435FAA4924A62D32BF5E6A70174E146.svg</URL>
+            </control>
+            <control controlID="394208A0-9E39-4EAD-BC80-BD8B549AB28C" controlTypeID="Label" x="0" y="19" w="27" h="14" zOrder="1">
+              <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Chats</text>
+              <textColor>4288256409</textColor>
+              <textSize>10</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="B2E7EFD1-179B-4A71-B280-764F091D5846" controlTypeID="Shape" x="0" y="20" w="375" h="44" zOrder="2">
+      <color>4292380672</color>
+      <borderVisible>False</borderVisible>
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Bangkok</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A074C2B6-6905-46C6-84E5-2AFA654E5C61" controlTypeID="Icon" x="14" y="36" w="18" h="18" zOrder="3">
+      <color>4294967295</color>
+      <links eventType="AtClick" animate="AmPushRight" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F9B195CF-0F8F-455F-88B6-9D2332DE1FBA" linkType="ltPageLink" isApplyIncludePage="False" title="Search">
+          <area shape="0" alt="" ID="{80C473A4-C8EB-E711-8DDA-787B8ABCE684}" coords="(0,0,18,18)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62418</iconCode>
+      </icon>
+      <URL>91852B86E51F760894554368302F9800.svg</URL>
+    </control>
+    <control controlID="FA9CFAFF-8047-423B-8A0E-6BEDB12B86E9" controlTypeID="__group__" x="0" y="64" w="375" h="241" zOrder="4">
+      <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="91FC3F64-51DE-44A5-B48B-940EFA64AFEA" linkType="ltPageLink" isApplyIncludePage="False" title="talat+noi">
+          <area shape="0" alt="" ID="{BFEBED90-E07E-4D9D-8DEA-B679F457DFE2}" coords="(0,0,375,241)"/>
+        </link>
+      </links>
+      <groupChildrenDescriptors>
+        <control controlID="56596A05-06EA-4E74-A5A3-7A05162586D9" controlTypeID="ImageCarousel" x="0" y="0" w="375" h="161" zOrder="0">
+          <color>52224</color>
+          <groupChildrenDescriptors>
+            <control controlID="3970C70F-1D54-4034-A277-942FF7CA4C70" controlTypeID="ImageBackground" x="0" y="0" w="375" h="161" zOrder="0">
+              <caption>55039c102249409f963df11c05cf44da</caption>
+              <groupChildrenDescriptors/>
+              <URL>28D41FEC88DBA661CFE759951A73116E.png</URL>
+            </control>
+            <control controlID="E8B8BADA-C3CD-4753-987A-B7A806B44BF6" controlTypeID="ImageBackground" x="0" y="0" w="375" h="161" zOrder="1">
+              <caption>384915ad5b5448fa83b803b21f51fcbf</caption>
+              <groupChildrenDescriptors/>
+              <URL>F0B97A909A8623D310D9B5457EBAB366.png</URL>
+            </control>
+            <control controlID="97370527-50ED-4AEE-9975-3DA85079D880" controlTypeID="ImageBackground" x="0" y="0" w="375" h="161" zOrder="2">
+              <caption>ad3cf85757924bd6b81cc181de171ae2</caption>
+              <groupChildrenDescriptors/>
+              <URL>E7CF3E3FB0A5BA6F4EA4C281B85B5B0A.png</URL>
+            </control>
+            <control controlID="7153B12B-5275-4D6A-93C6-2C0F661267B0" controlTypeID="ImageBackground" x="0" y="0" w="375" h="161" zOrder="3">
+              <caption>ad970877081e4fcf87032c678d379325</caption>
+              <color>52224</color>
+              <groupChildrenDescriptors/>
+              <URL>E6BDEE6F87C65E7C09AB13627BF6359D.png</URL>
+            </control>
+            <control controlID="707F29FC-2300-4E73-85EF-3BF2AAA493AF" controlTypeID="ImageBackground" x="0" y="0" w="375" h="161" zOrder="4">
+              <caption>dfa22f5171ab4f27ad72a58069a6178b</caption>
+              <groupChildrenDescriptors/>
+              <URL>D3B9FDFAF6078176F8CD8308DECA1600.png</URL>
+            </control>
+          </groupChildrenDescriptors>
+          <selectedIndex>4</selectedIndex>
+          <indicatorColor>4292380672</indicatorColor>
+        </control>
+        <control controlID="02B87177-0D48-423D-AD8A-A3C1F3226AE2" controlTypeID="IconLabel2" x="12" y="168" w="107" h="20" zOrder="1">
+          <groupChildrenDescriptors>
+            <control controlID="75168F8F-96C1-4169-B6BA-4F4CD896CAF1" controlTypeID="Shape" x="0" y="4" w="12" h="12" zOrder="0">
+              <canMove>False</canMove>
+              <alias>shape</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="E6567D94-1F9B-4153-B9C6-01891D388B11" controlTypeID="Icon" x="0" y="4" w="12" h="12" zOrder="1">
+              <color>4292380672</color>
+              <canMove>False</canMove>
+              <alias>icon</alias>
+              <icon>
+                <ID/>
+                <iconFontName>jdIcoMoonFree</iconFontName>
+                <iconCode>59718</iconCode>
+              </icon>
+              <URL>1FA72D001797B9F4056C4DB9A4A5EDC9.svg</URL>
+            </control>
+            <control controlID="B3DED1F2-7DF1-49E9-8CC1-7CEC7C85634A" controlTypeID="Label" x="16" y="2" w="91" h="16" zOrder="2">
+              <canMove>False</canMove>
+              <alias>label</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Talat+Noi+Market</text>
+              <textSize>12</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="6FEF4FE2-47DB-427D-8F5A-45C68D02A671" controlTypeID="Shape" x="95" y="0" w="12" h="12" zOrder="3">
+              <color>4294901760</color>
+              <borderVisible>False</borderVisible>
+              <canMove>False</canMove>
+              <alias>alarm</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>2</text>
+              <textColor>4294967295</textColor>
+              <textSize>7</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <radius>100</radius>
+              <radiusIsPercent>True</radiusIsPercent>
+            </control>
+          </groupChildrenDescriptors>
+          <textDirection>MiTextRight</textDirection>
+          <iconSize>12</iconSize>
+        </control>
+        <control controlID="CDE1F478-CF79-405B-B26E-0391E92E738D" controlTypeID="Icon" x="11" y="191" w="12" h="12" zOrder="2">
+          <color>4292380672</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62371</iconCode>
+          </icon>
+          <URL>474A61FDC203C97B2EEFAF494C017CCB.svg</URL>
+        </control>
+        <control controlID="4608F5E5-5A9D-4022-9C9B-2B1A7836F648" controlTypeID="TextArea" x="28" y="191" w="339" h="31" zOrder="3">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>1280%2C+1280%2F1+Yo+Tha+Road%2C+Talat+Noi+Sub+District%2C+Samphanthawong+District%2C+Bangkok+10100+Thailand</text>
+          <textColor>4284900966</textColor>
+          <textSize>10</textSize>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="21C8B899-FE05-402D-A92C-9840086CA915" controlTypeID="__group__" x="27" y="226" w="97" h="15" zOrder="4">
+          <groupChildrenDescriptors>
+            <control controlID="4879E93C-CE33-4D7C-9344-5B29C45CA41E" controlTypeID="Icon" x="0" y="0" w="15" h="15" zOrder="0">
+              <color>4294901760</color>
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62344</iconCode>
+              </icon>
+              <URL>9DA58F6FCBD77A56BA4CDD80AFFCE333.svg</URL>
+            </control>
+            <control controlID="C845740E-24ED-4F1E-B718-79FC0FAB6E07" controlTypeID="Icon" x="20" y="0" w="15" h="15" zOrder="1">
+              <color>4294901760</color>
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62344</iconCode>
+              </icon>
+              <URL>9DA58F6FCBD77A56BA4CDD80AFFCE333.svg</URL>
+            </control>
+            <control controlID="AF16B4CD-4482-4FE1-AA71-B7878C5C791D" controlTypeID="Icon" x="40" y="0" w="15" h="15" zOrder="2">
+              <color>4294901760</color>
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62344</iconCode>
+              </icon>
+              <URL>9DA58F6FCBD77A56BA4CDD80AFFCE333.svg</URL>
+            </control>
+            <control controlID="4CDBD5A7-736E-4181-A591-0A190D81C181" controlTypeID="Icon" x="61" y="0" w="15" h="15" zOrder="3">
+              <color>4278190080</color>
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62344</iconCode>
+              </icon>
+              <URL>9DA58F6FCBD77A56BA4CDD80AFFCE333.svg</URL>
+            </control>
+            <control controlID="1642BA57-A6F4-481B-879B-E8BE6B052BC7" controlTypeID="Icon" x="82" y="0" w="15" h="15" zOrder="4">
+              <color>4281545523</color>
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62344</iconCode>
+              </icon>
+              <URL>9DA58F6FCBD77A56BA4CDD80AFFCE333.svg</URL>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="A6399980-8E6C-40D9-8AB5-674252D12DB9" controlTypeID="Shape" x="299" y="120" w="68" h="29" zOrder="5">
+          <color>2516582400</color>
+          <borderVisible>False</borderVisible>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>$35</text>
+          <textColor>4294967295</textColor>
+          <textSize>16</textSize>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+          <radius>4</radius>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

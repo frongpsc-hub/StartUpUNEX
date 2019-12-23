@@ -1,0 +1,106 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="5E696A0D-16D2-4EC3-AB6F-099DC003043A" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="11">
+    <control controlID="8915715A-40C2-4F7D-B76D-5F4727B2C2FD" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="0">
+      <color>4292380672</color>
+      <IsAutoTextColor>False</IsAutoTextColor>
+    </control>
+    <control controlID="5EFCE41B-EA03-4E22-8D4A-701AB5260F28" controlTypeID="Icon" x="10" y="30" w="17" h="17" zOrder="1">
+      <color>4292380672</color>
+      <links eventType="AtClick" animate="AmSlideDown" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="8B0F8E6B-EBB3-4E4D-8EE2-E7CF07B78970" linkType="ltPageLink" isApplyIncludePage="False" title="Pay+with1">
+          <area shape="0" alt="" ID="{22189528-5CBE-4627-9706-43EAEC45FCC4}" coords="(0,0,17,17)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62167</iconCode>
+      </icon>
+      <URL>8BE3C7AC8FBB1747163ECAB9AB46AD44.svg</URL>
+    </control>
+    <control controlID="B872F7F3-73B1-4BCF-AC06-4927445BC68B" controlTypeID="Label" x="20" y="63" w="131" h="43" zOrder="2">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Currency</text>
+      <textColor>4292380672</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="71558664-89B2-40D9-9292-0C0EF249E364" controlTypeID="Label" x="64" y="142" w="95" h="27" zOrder="3">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Thai+(Bath)</text>
+      <textColor>4292380672</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B95757FD-56A9-4058-BD3F-78F6C36B1CBC" controlTypeID="Image" x="24" y="146" w="30" h="20" zOrder="4">
+      <URL>64F5D7FD23E8942DBAFDD0FCF11D0C7A.png</URL>
+    </control>
+    <control controlID="D94B2F1A-E685-4709-B7E5-FF73B1C9431D" controlTypeID="Image" x="24" y="198" w="30" h="20" zOrder="5">
+      <URL>F37FCB0C39A9CC3CE0AA1A92534DEAD5.png</URL>
+    </control>
+    <control controlID="1DF33775-8E16-429A-BECF-59A1823FB1C6" controlTypeID="Label" x="64" y="194" w="95" h="27" zOrder="6">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>USA+(USD)</text>
+      <textColor>4292380672</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8D958D98-1805-436B-818E-9913D890A1C2" controlTypeID="Image" x="24" y="251" w="30" h="20" zOrder="7">
+      <URL>9602F5AF081F224CB905654925E0B67C.png</URL>
+    </control>
+    <control controlID="01DAE18B-D9E7-474B-AED1-8F7EA3F59BFD" controlTypeID="Label" x="64" y="247" w="129" h="27" zOrder="8">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Chinese+(Yuan)</text>
+      <textColor>4292380672</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="BBAA743C-EC42-4092-87D0-99874FA057D6" controlTypeID="Button" x="10" y="616" w="355" h="44" zOrder="9">
+      <caption>Buttons+Edit</caption>
+      <color>4292380672</color>
+      <borderColor>4292380672</borderColor>
+      <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="8B0F8E6B-EBB3-4E4D-8EE2-E7CF07B78970" linkType="ltPageLink" isApplyIncludePage="False" title="Pay+with1">
+          <area shape="0" alt="" ID="{B4552A22-83F3-4723-A08D-D04BAE95EE56}" coords="(0,0,355,44)"/>
+        </link>
+      </links>
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Apply</text>
+      <textColor>4294967295</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="38098E51-05FE-4D0E-B951-DDAA75BFA8F5" controlTypeID="RadioButtonGroup" x="331" y="134" w="18" h="149" zOrder="10">
+      <borderColor>4292380672</borderColor>
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%0D%0A%0D%0A%0D%0A</text>
+      <textColor>4292380672</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>1</selectedIndex>
+      <size>15</size>
+      <itemHeight>43</itemHeight>
+      <itemRect>[{"left":0,"top":0,"right":18,"bottom":43},{"left":0,"top":53,"right":18,"bottom":96},{"left":0,"top":106,"right":18,"bottom":149}]</itemRect>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

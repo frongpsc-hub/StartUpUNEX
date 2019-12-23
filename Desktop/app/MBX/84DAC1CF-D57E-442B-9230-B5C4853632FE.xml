@@ -1,0 +1,110 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="84DAC1CF-D57E-442B-9230-B5C4853632FE" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="9">
+    <control controlID="03801D2D-E023-4EDC-A136-908AADBDCC91" controlTypeID="Image" x="28" y="48" w="153" h="105" zOrder="0">
+      <URL>59CC5C02B78778B4A10314F0EC013D6C.png</URL>
+    </control>
+    <control controlID="F66F8768-F42B-43FD-BBE2-DF986FFE2F3B" controlTypeID="Label" x="28" y="168" w="265" h="43" zOrder="1">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Welcome+to+UNEX.</text>
+      <textColor>4292381191</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="DF99D525-37A3-401C-9822-8873041967F4" controlTypeID="Button" x="52" y="244" w="278" h="44" zOrder="2">
+      <caption>Buttons+Edit</caption>
+      <color>4292380672</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="4C6613BC-9EEB-E711-8DDA-787B8ABCE684" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{734557D9-A52D-47D8-A8C8-46E9C5E63682}" coords="(0,0,278,44)"/>
+        </link>
+      </links>
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>++++++Continue+with+Facebook</text>
+      <textColor>4294967295</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="5F9C9BFF-6CB3-40F8-839A-A8A35A19E0CB" controlTypeID="Button" x="52" y="298" w="278" h="44" zOrder="3">
+      <caption>Buttons+Edit</caption>
+      <borderColor>4292380672</borderColor>
+      <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="72B221A3-8C9B-4BA7-B039-4028A0EB3BCE" linkType="ltPageLink" isApplyIncludePage="False" title="Create+account">
+          <area shape="0" alt="" ID="{8D4C34AF-BE94-466C-9B0E-4140364CA00E}" coords="(0,0,278,44)"/>
+        </link>
+      </links>
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Create+Account</text>
+      <textColor>4292380672</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="EC82ECC2-512A-4D9C-874D-B63004B72F57" controlTypeID="Label" x="312" y="18" w="46" h="20" zOrder="4">
+      <links eventType="AtClick" animate="AmSlideLeft" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="258889CA-8004-4D2A-ACBF-ABD70CA73D3D" linkType="ltPageLink" isApplyIncludePage="False" title="Page">
+          <area shape="0" alt="" ID="{23C2941C-91E7-457C-8B3A-0146668C0CF4}" coords="(0,0,46,20)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Log+In</text>
+      <textColor>4292380672</textColor>
+      <textSize>15</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="60B24727-89EC-463F-BFFF-B1EA26869C73" controlTypeID="Label" x="52" y="370" w="79" h="27" zOrder="5">
+      <links eventType="AtClick" animate="AmSlideUp" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="13802716-A9A3-4B81-8107-012CA3466678" linkType="ltPageLink" isApplyIncludePage="False" title="Page1">
+          <area shape="0" alt="" ID="{7356ED8A-76C3-43EE-A266-4948C7A5D57D}" coords="(0,0,79,27)"/>
+        </link>
+      </links>
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Anyway%3F</text>
+      <textColor>4292381191</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="32D6237C-C6E7-410E-8935-DC06197A2D02" controlTypeID="TextArea" x="29" y="425" w="324" h="66" zOrder="6">
+      <font family="Bodoni+MT+Condensed" displayName="Bodoni+MT+Condensed" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>By+tapping+Continue%2C+Create+Account+or+More+options%2C+I+agree+to+UNEX's+</text>
+      <textColor>4292380672</textColor>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="6C18111C-922A-4B3D-AB59-4616CFAE1585" controlTypeID="TextArea" x="29" y="465" w="324" h="66" zOrder="7">
+      <opacity>0.699999988079071</opacity>
+      <font family="Bodoni+MT+Condensed" displayName="Bodoni+MT+Condensed" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Terms+of+service%2C+Patments+Terms+of+Service%2C+Privacy+Policy%2C+and+Non-Discrimination+Policy.</text>
+      <textColor>4292380672</textColor>
+      <textStyles>[fsUnderline]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="3B40807E-E959-4DDD-BA1E-33E4990085FE" controlTypeID="Icon" x="72" y="254" w="24" h="24" zOrder="8">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontCustom</iconFontName>
+        <iconCode>61892</iconCode>
+      </icon>
+      <URL>EE94474FC647AC6E6BB16E291535870C.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

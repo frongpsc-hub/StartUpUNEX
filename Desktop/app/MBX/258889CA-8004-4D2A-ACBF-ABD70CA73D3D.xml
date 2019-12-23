@@ -1,0 +1,199 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="258889CA-8004-4D2A-ACBF-ABD70CA73D3D" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="16">
+    <control controlID="F0560611-0DEB-453D-8E4C-B8B0BBB77342" controlTypeID="Label" x="29" y="77" w="104" h="43" zOrder="0">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Log+In</text>
+      <textColor>4292381191</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="471F73E0-A02B-4657-9168-9CC0C596F15E" controlTypeID="Icon" x="10" y="30" w="20" h="20" zOrder="1">
+      <color>4292380672</color>
+      <links eventType="AtClick" animate="AmSlideRight" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="A343A7B9-ADC8-4170-8E15-31845A96B270" linkType="ltPageLink" isApplyIncludePage="False" title="Page">
+          <area shape="0" alt="" ID="{04DF6A48-BDC8-4E93-AD9B-A6F78F942B00}" coords="(0,0,20,20)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62154</iconCode>
+      </icon>
+      <URL>D95E480717200F895E41DB6E5B869596.svg</URL>
+    </control>
+    <control controlID="0C0EACC3-4F3C-4176-9BB6-DFE78188D943" controlTypeID="Label" x="29" y="156" w="146" h="24" zOrder="2">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>EMAIL+ADDRESS</text>
+      <textColor>4292381191</textColor>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1385B85C-4F48-437E-8F66-4454AE9F518D" controlTypeID="Line" x="29" y="219" w="317" h="2" zOrder="3">
+      <color>4292381191</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(159,1)</controlPoint>
+      <startPoint>(1,1)</startPoint>
+      <endPoint>(317,1)</endPoint>
+    </control>
+    <control controlID="A200D055-36F4-44FD-A6F8-C90F41F5573A" controlTypeID="Label" x="30" y="248" w="105" h="24" zOrder="4">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>PASSWORD</text>
+      <textColor>4292381191</textColor>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CD48EDC4-0E72-4492-B35D-2FDB4C98C8EF" controlTypeID="Line" x="30" y="311" w="317" h="2" zOrder="5">
+      <color>4292381191</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(159,1)</controlPoint>
+      <startPoint>(1,1)</startPoint>
+      <endPoint>(317,1)</endPoint>
+    </control>
+    <control controlID="2E29396E-2A4D-4357-A2E1-BC2C8A234D52" controlTypeID="Icon" x="304" y="556" w="51" h="51" zOrder="6">
+      <color>4292381191</color>
+      <links eventType="AtClick" animate="AmSlideLeft" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="36A3360F-7A62-4405-8F38-C9C61FDC0941" linkType="ltPageLink" isApplyIncludePage="False" title="Page1">
+          <area shape="0" alt="" ID="{063D79E7-156A-4D79-A200-7FB3B06B5736}" coords="(0,0,51,51)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61733</iconCode>
+      </icon>
+      <URL>2D780716D3D89B2EFB0155599BA0A89F.svg</URL>
+    </control>
+    <control controlID="C7A53F59-83E6-4E85-ADBC-7EC66A3E8921" controlTypeID="TextInput" x="32" y="180" w="313" h="39" zOrder="7">
+      <borderColor>4294967295</borderColor>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{133E9CD2-7F67-4A9A-840C-EAA40424413B}" coords="(0,0,313,39)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="8183571B-9C2A-4FE6-B778-59DB0BB584D0" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Popup State Change" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="Value" value="2" varType="3" description=""/>
+                    <param name="AniType" value="0" varType="3" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <textColor>4292381191</textColor>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="DE6200E6-2061-4C1E-A0DF-4574BEFA182B" controlTypeID="TextInput" x="32" y="271" w="313" h="39" zOrder="8">
+      <borderColor>4294967295</borderColor>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{75642B2B-607A-45D6-A173-05C11FCC17C3}" coords="(0,0,313,39)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="8183571B-9C2A-4FE6-B778-59DB0BB584D0" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Popup State Change" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="Value" value="2" varType="3" description=""/>
+                    <param name="AniType" value="0" varType="3" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <textColor>4292381191</textColor>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="58BA492C-0F29-4D65-92A6-8BCE47857EBE" controlTypeID="Label" x="243" y="30" w="122" h="20" zOrder="9">
+      <links eventType="AtClick" animate="AmSlideDown" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="36A3360F-7A62-4405-8F38-C9C61FDC0941" linkType="ltPageLink" isApplyIncludePage="False" title="Page1">
+          <area shape="0" alt="" ID="{23C2941C-91E7-457C-8B3A-0146668C0CF4}" coords="(0,0,122,20)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Forgot+password%3F</text>
+      <textColor>4292380672</textColor>
+      <textSize>15</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A1E1198A-9A94-40C7-9D1A-9CBCD7B8231B" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="10">
+      <color>4292380672</color>
+      <IsAutoTextColor>False</IsAutoTextColor>
+    </control>
+    <control controlID="8183571B-9C2A-4FE6-B778-59DB0BB584D0" controlTypeID="PopupPanel" x="-156" y="168" w="46" h="46" zOrder="11">
+      <caption>Keyboard</caption>
+      <color>4288256409</color>
+      <groupChildrenDescriptors>
+        <control controlID="8F255A83-F6AF-40BB-92B0-CDAD9CE61A47" controlTypeID="Panel" x="0" y="0" w="375" h="667" zOrder="0">
+          <locked>True</locked>
+          <color>4288256409</color>
+          <borderVisible>False</borderVisible>
+          <canMove>False</canMove>
+          <alias>background</alias>
+          <groupChildrenDescriptors>
+            <control controlID="AC1C555B-8ACA-42CC-A81B-D3E1DA8776F8" controlTypeID="Border" x="0" y="0" w="375" h="667" zOrder="0">
+              <borderVisible>False</borderVisible>
+              <alias>borderLayer</alias>
+            </control>
+          </groupChildrenDescriptors>
+          <thinkness>1</thinkness>
+        </control>
+        <control controlID="91420400-F37E-4FE7-B132-1063C6938BEA" controlTypeID="PopupPanelContent" x="0" y="427" w="375" h="240" zOrder="1">
+          <color>16777215</color>
+          <alias>content</alias>
+          <groupChildrenDescriptors>
+            <control controlID="6445061D-91BE-4380-9D74-4DA1AE400BA6" controlTypeID="Keyboard" x="0" y="0" w="375" h="240" zOrder="0"/>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+      <isBackgroundFade>True</isBackgroundFade>
+      <aniType_Mobile>aniMoveUp</aniType_Mobile>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

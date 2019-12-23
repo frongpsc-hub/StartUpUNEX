@@ -1,0 +1,307 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="66AE619E-D951-49FB-963B-7AE025D6F0A3" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="31">
+    <control controlID="B545BD60-8D45-403C-A54F-233419267B9E" controlTypeID="Icon" x="14" y="36" w="18" h="18" zOrder="0">
+      <color>4292380672</color>
+      <links eventType="AtClick" animate="AmPushRight" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="68C0E381-BAEB-E711-8DDA-787B8ABCE684" linkType="ltPageLink" isApplyIncludePage="False" title="koh+kang">
+          <area shape="0" alt="" ID="{80C473A4-C8EB-E711-8DDA-787B8ABCE684}" coords="(0,0,18,18)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62418</iconCode>
+      </icon>
+      <URL>91852B86E51F760894554368302F9800.svg</URL>
+    </control>
+    <control controlID="87F8FEB7-2B71-4A7A-8BDA-990770319BFF" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="1">
+      <color>4292380672</color>
+      <IsAutoTextColor>False</IsAutoTextColor>
+    </control>
+    <control controlID="B69944BC-5362-4C05-93CF-5D974FCCDA19" controlTypeID="Label" x="20" y="63" w="219" h="43" zOrder="2">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Check+Avaliable</text>
+      <textColor>4292380672</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2101B76A-D8E1-48D5-81DA-85BC7D5213A9" controlTypeID="Label" x="20" y="138" w="81" h="43" zOrder="3">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Date</text>
+      <textColor>4292380672</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CF156328-194C-460B-B5A0-90B451F88115" controlTypeID="__group__" x="20" y="191" w="91" h="65" zOrder="4">
+      <groupChildrenDescriptors>
+        <control controlID="A5A3D090-446F-4AE5-96AD-3232B5122B4E" controlTypeID="Label" x="0" y="27" w="91" h="38" zOrder="0">
+          <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>May+17</text>
+          <textColor>4292380672</textColor>
+          <textSize>28</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="AACEB437-9044-47F0-A773-048AC925C828" controlTypeID="Label" x="0" y="0" w="53" h="38" zOrder="1">
+          <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Thu</text>
+          <textColor>4292380672</textColor>
+          <textSize>28</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="1BF662A0-0269-4043-A2BA-A55C4AA6CB2F" controlTypeID="__group__" x="274" y="191" w="91" h="66" zOrder="5">
+      <groupChildrenDescriptors>
+        <control controlID="77435EE3-32A6-42B1-BA65-06CAE68F9D67" controlTypeID="Label" x="0" y="28" w="91" h="38" zOrder="0">
+          <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>May+19</text>
+          <textColor>4292380672</textColor>
+          <textSize>28</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="C881C15B-643C-485C-91B7-356A713C45A6" controlTypeID="Label" x="36" y="0" w="46" h="38" zOrder="1">
+          <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Sat</text>
+          <textColor>4292380672</textColor>
+          <textSize>28</textSize>
+          <textAlign>HaRight</textAlign>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="47DC73E4-4CCF-4D0E-8270-E2C605621B7E" controlTypeID="Label" x="20" y="263" w="96" h="27" zOrder="6">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>After+13.00</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="28C845C2-F3BD-4D30-9E18-3B9971F9F345" controlTypeID="Label" x="251" y="263" w="105" h="27" zOrder="7">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Before+11.00</text>
+      <textSize>20</textSize>
+      <textAlign>HaRight</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="578176CD-DE44-48A2-9EFB-6E629F3A7243" controlTypeID="Icon" x="111" y="147" w="26" h="26" zOrder="8">
+      <color>4292380672</color>
+      <links eventType="AtClick" animate="AmSlideDown" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Date1">
+          <area shape="0" alt="" ID="{1A78CBBD-4B5E-4519-8ED0-8403F6A1FB0F}" coords="(0,0,26,26)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62161</iconCode>
+      </icon>
+      <URL>524D9A41776CD1EF98956BB68F9875AC.svg</URL>
+    </control>
+    <control controlID="F331428D-1FEE-4740-856D-3A6F7B5033FD" controlTypeID="Label" x="20" y="300" w="112" h="43" zOrder="9">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>People</text>
+      <textColor>4292380672</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B5350BF5-5E10-4428-BCCC-785A4B0CF305" controlTypeID="Icon" x="137" y="313" w="24" h="24" zOrder="10">
+      <color>4292380672</color>
+      <links eventType="AtClick" animate="AmSlideDown" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="People1">
+          <area shape="0" alt="" ID="{74E05E7F-4FB5-4CBE-B2A7-3E10A32537F8}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62366</iconCode>
+      </icon>
+      <URL>CB1D4BD70EFAF9D0D63B9D0659D62AAA.svg</URL>
+    </control>
+    <control controlID="F2D4D64D-3551-45C4-A2DA-F70D84011554" controlTypeID="Line" x="20" y="399" w="336" h="1" zOrder="11">
+      <color>4292380672</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textColor>4292380672</textColor>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(168,0)</controlPoint>
+      <startPoint>(0,0)</startPoint>
+      <endPoint>(336,0)</endPoint>
+    </control>
+    <control controlID="140D2AB4-267C-43B0-9AA0-9EDB084BE8A3" controlTypeID="Line" x="20" y="452" w="336" h="1" zOrder="12">
+      <color>4292380672</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textColor>4292380672</textColor>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(168,0)</controlPoint>
+      <startPoint>(0,0)</startPoint>
+      <endPoint>(336,0)</endPoint>
+      <textBorderColor>4292380672</textBorderColor>
+    </control>
+    <control controlID="D30B3ACC-2F83-4978-A40B-3CA5C024AD87" controlTypeID="Line" x="20" y="504" w="336" h="1" zOrder="13">
+      <color>4292380672</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textColor>4292380672</textColor>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(168,0)</controlPoint>
+      <startPoint>(0,0)</startPoint>
+      <endPoint>(336,0)</endPoint>
+    </control>
+    <control controlID="03C9C9C2-8F9A-412B-AAE9-38953E074AE5" controlTypeID="Label" x="54" y="362" w="41" h="19" zOrder="14">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Adults</text>
+      <textColor>4292381191</textColor>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D803587E-08C3-4C9F-A056-C253DCD4D63D" controlTypeID="Label" x="54" y="415" w="53" h="19" zOrder="15">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Children</text>
+      <textColor>4292381191</textColor>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="593B3AB1-7E5F-4318-981D-0519C660DA3A" controlTypeID="Label" x="54" y="467" w="43" h="19" zOrder="16">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Infants</text>
+      <textColor>4292381191</textColor>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="05E46DFD-28D2-4EAE-A6DE-22E5F6308CC4" controlTypeID="Icon" x="20" y="362" w="24" h="24" zOrder="17">
+      <color>4292380672</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62366</iconCode>
+      </icon>
+      <URL>CB1D4BD70EFAF9D0D63B9D0659D62AAA.svg</URL>
+    </control>
+    <control controlID="3BA67822-57A4-4CB3-A0EA-24232856126F" controlTypeID="Icon" x="20" y="465" w="24" h="24" zOrder="18">
+      <color>4292380672</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontAwesome</iconFontName>
+        <iconCode>61870</iconCode>
+      </icon>
+      <URL>756987B0DEBCFC9671BF5AE2B93F9EE5.svg</URL>
+    </control>
+    <control controlID="C6F89FB2-861A-426C-A53A-1CA43516530E" controlTypeID="Icon" x="20" y="413" w="24" h="24" zOrder="19">
+      <color>4292380672</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontAwesome</iconFontName>
+        <iconCode>61981</iconCode>
+      </icon>
+      <URL>790D5A22DCAE4FDF80567156D62BBE4F.svg</URL>
+    </control>
+    <control controlID="3D8C59F8-E87C-4013-A821-B99F6F950700" controlTypeID="Label" x="330" y="360" w="16" h="27" zOrder="20">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>2</text>
+      <textSize>20</textSize>
+      <textAlign>HaRight</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8FFB5931-A888-49C0-99F9-F75F7523B75A" controlTypeID="Label" x="330" y="411" w="16" h="27" zOrder="21">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>2</text>
+      <textSize>20</textSize>
+      <textAlign>HaRight</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="760C6366-2482-450D-A6E0-9BA15883A164" controlTypeID="Label" x="333" y="463" w="13" h="27" zOrder="22">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>1</text>
+      <textSize>20</textSize>
+      <textAlign>HaRight</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="ADE9B41C-8053-4ECD-BE37-EF9608231610" controlTypeID="Button" x="10" y="616" w="355" h="44" zOrder="23">
+      <caption>Buttons+Edit</caption>
+      <color>4292380672</color>
+      <borderColor>4292380672</borderColor>
+      <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="60B7CC70-BFB6-405E-9EC3-D24CEAE5A182" linkType="ltPageLink" isApplyIncludePage="False" title="Confirm">
+          <area shape="0" alt="" ID="{B4552A22-83F3-4723-A08D-D04BAE95EE56}" coords="(0,0,355,44)"/>
+        </link>
+      </links>
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Add+Payment</text>
+      <textColor>4294967295</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="693A9E5D-0652-4C0E-9AF2-CD394EF751AB" controlTypeID="Label" x="20" y="524" w="111" h="43" zOrder="24">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>$1%2C100</text>
+      <textColor>4292380672</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F815858D-218D-4FDE-8C7B-0811B2B39B42" controlTypeID="Label" x="126" y="535" w="82" h="22" zOrder="25">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>for+2+nights</text>
+      <textColor>4292380672</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F30193F2-C66F-4D02-A1C8-4F2A12C91E4F" controlTypeID="Label" x="20" y="567" w="127" h="22" zOrder="26">
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>See+pricing+details</text>
+      <textColor>4292380672</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

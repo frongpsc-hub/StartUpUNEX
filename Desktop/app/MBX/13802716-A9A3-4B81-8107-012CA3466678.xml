@@ -1,0 +1,101 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="13802716-A9A3-4B81-8107-012CA3466678" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="7">
+    <control controlID="FEC430F0-958E-418E-B6F6-DB1B171B57C2" controlTypeID="Button" x="49" y="162" w="278" h="44" zOrder="0">
+      <caption>Buttons+Edit</caption>
+      <color>4292380672</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="DF6ECF71-703D-4E14-9E5D-1D31743F907F" linkType="ltPageLink" isApplyIncludePage="False" title="%E0%B8%AB%E0%B8%81%E0%B8%94%E0%B8%81%E0%B8%941">
+          <area shape="0" alt="" ID="{52364B33-CAC7-48F7-8385-D576E5DB01E7}" coords="(0,0,278,44)"/>
+        </link>
+      </links>
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>+Facebook</text>
+      <textColor>4294967295</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="73D300BD-CE07-4999-9624-2BE6A09A2F36" controlTypeID="Icon" x="10" y="30" w="17" h="17" zOrder="1">
+      <color>4292380672</color>
+      <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="A343A7B9-ADC8-4170-8E15-31845A96B270" linkType="ltPageLink" isApplyIncludePage="False" title="Page">
+          <area shape="0" alt="" ID="{22189528-5CBE-4627-9706-43EAEC45FCC4}" coords="(0,0,17,17)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62167</iconCode>
+      </icon>
+      <URL>8BE3C7AC8FBB1747163ECAB9AB46AD44.svg</URL>
+    </control>
+    <control controlID="D405E2D6-9020-4EC1-B413-A039F5D30245" controlTypeID="Button" x="49" y="222" w="278" h="44" zOrder="2">
+      <caption>Buttons+Edit</caption>
+      <color>4292380672</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="DF6ECF71-703D-4E14-9E5D-1D31743F907F" linkType="ltPageLink" isApplyIncludePage="False" title="%E0%B8%AB%E0%B8%81%E0%B8%94%E0%B8%81%E0%B8%941">
+          <area shape="0" alt="" ID="{46597276-EE7B-47DC-823B-795B4D6D8299}" coords="(0,0,278,44)"/>
+        </link>
+      </links>
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Google</text>
+      <textColor>4294967295</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="A5FAB92E-CCF3-4E01-A003-65CF66D6A82E" controlTypeID="Button" x="49" y="284" w="278" h="44" zOrder="3">
+      <caption>Buttons+Edit</caption>
+      <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="72B221A3-8C9B-4BA7-B039-4028A0EB3BCE" linkType="ltPageLink" isApplyIncludePage="False" title="Create+account">
+          <area shape="0" alt="" ID="{9269BF11-BE9A-49A6-A5FD-DF054BD489D6}" coords="(0,0,278,44)"/>
+        </link>
+      </links>
+      <font family="Bodoni+MT+Poster+Compressed" displayName="Bodoni+MT+Poster+Compressed" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Create+Account</text>
+      <textColor>4292380672</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="2D4FBC9A-835D-4565-8092-473ECAB1C4AF" controlTypeID="Icon" x="72" y="232" w="24" h="24" zOrder="4">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontCustom</iconFontName>
+        <iconCode>61898</iconCode>
+      </icon>
+      <URL>1FA097195886DF6FCEAA1DD891C4A251.svg</URL>
+    </control>
+    <control controlID="388F71DA-F657-47E0-9384-5B140A6F2172" controlTypeID="Icon" x="72" y="172" w="24" h="24" zOrder="5">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontCustom</iconFontName>
+        <iconCode>61892</iconCode>
+      </icon>
+      <URL>EE94474FC647AC6E6BB16E291535870C.svg</URL>
+    </control>
+    <control controlID="16C53D28-8252-4037-8326-555817F2C755" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="6">
+      <color>4292380672</color>
+      <IsAutoTextColor>False</IsAutoTextColor>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

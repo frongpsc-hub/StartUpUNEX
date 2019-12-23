@@ -1,0 +1,56 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="C8D9CA9D-E5E1-443D-917A-772A7F89BDD6" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="4">
+    <control controlID="0A36388B-E80F-4735-B63B-A1EDC6747A0F" controlTypeID="__group__" x="0" y="0" w="375" h="667" zOrder="0">
+      <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="6E6886AE-A446-4BEE-88BE-20BB3B31B3BE" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{860FBE54-F278-4B0F-A429-6A4C89119DF4}" coords="(0,0,375,667)"/>
+        </link>
+      </links>
+      <groupChildrenDescriptors>
+        <control controlID="882D477B-BB76-4665-A4F9-D73812F68FB9" controlTypeID="Shape" x="0" y="0" w="375" h="667" zOrder="0">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="E0616C71-8957-4F4A-9F89-7D4DB95AA225" controlTypeID="Image" x="72" y="237" w="233" h="160" zOrder="1">
+          <URL>59CC5C02B78778B4A10314F0EC013D6C.png</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="C6FBE0D7-61C0-41BE-93BF-FBEDC20D8FCD" controlTypeID="Timer" x="-239" y="340" w="46" h="46" zOrder="1">
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{9A79A3C3-8B62-47A7-B76D-6A632F4CE24E}" coords="(0,0,46,46)"/>
+          <events title="">
+            <event eventType="atLoad" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="0A36388B-E80F-4735-B63B-A1EDC6747A0F" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Change Visibility" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="1" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                    <param name="ForceFromInitValue" value="False" varType="11" description=""/>
+                    <param name="ForceSetVisible" value="False" varType="11" description=""/>
+                    <param name="Value" value="1" varType="3" description=""/>
+                    <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <groupChildrenDescriptors/>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
